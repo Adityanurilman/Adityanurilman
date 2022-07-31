@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Adit
 
 <p align="justify">
-  I am a bachelor Engineer with main job on Supply Chain Management as Supervisor Logistic. I'm interesting with Data since I'm doing my thesis Defense, especially on data Science and I have passionate about Big Data, Artificial Intelligence and Machine Learning. I have been in several training programs in DQlab and awardness KOMINFO (Ministy of Communication and Information)  Scholarship that focus on the field of Data Science.
+  I am a bachelor Engineer with fulltime job on Supply Chain Management as Supervisor Logistic. I'm interesting with Data since I'm doing my thesis Defense, especially on data Science and I have passionate about Big Data, Artificial Intelligence and Machine Learning. I have been in several training programs in DQlab and awardness KOMINFO (Ministy of Communication and Information)  Scholarship that focus on the field of Data Science.
 </p>
 
  ## ⭐ My Repositories
