@@ -5,7 +5,7 @@
 </p>
 
  ## ⭐ My Repositories
-| ⚙ Projects | [PROA-Data-Sciences](https://github.com/Adityanurilman/PROA-Data-Science)
+| ⚙ Projects | [PROA-Data-Sciences](https://github.com/Adityanurilman/PROA-Data-Science) | [DQLab Project](https://github.com/Adityanurilman/DQLab)
 
 ## 🔍 You Can Find Me at
 
