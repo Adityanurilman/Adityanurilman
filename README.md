@@ -5,7 +5,7 @@
 </p>
 
  ## ⭐ My Repositories
-| ⚙ Projects | [PROA-Data-Sciences](https://github.com/myarist/myarist/blob/master/.github/workflows/articles.yml)
+| ⚙ Projects | [PROA-Data-Sciences](https://github.com/Adityanurilman/PROA-Data-Science))
 
 ## 🔍 You Can Find Me at
 
